@@ -33,3 +33,43 @@ I am responsible for the task and complete them efficiently and in the shortest 
 I am stress-resistant and hardworking, if necessary, I can devote more time to work than was allotted at the beginning.
 
 ---
+
+## **Skills**
+
+- JavaScript
+- React, Redux
+- HTML
+- CSS, Sass
+- GIT
+
+---
+
+## **Code example:**
+
+```
+function doubleInteger(i) {
+// i will be an integer. Double it and return it.
+return i*2;
+}
+```
+
+---
+
+## **Education and courses:**
+
+- **Coding School TeachMeSkills Course:** Front End - developer
+
+- **Website learn.javascript.ru Course:** "JavaScript/DOM/Interfaces for Beginners"
+
+- a bit of activity on **codewars**
+
+---
+
+## **Project:**
+
+- [store Wogy](https://github.com/VassyaK/website-Wogy)
+- [online sushi restaurant](https://github.com/VassyaK/jsbasic-20220310_kvg681982)
+- [widget-weather](https://github.com/VassyaK/-widget-weather)
+- [spiner](https://github.com/VassyaK/CSS-Spiner)
+
+---
