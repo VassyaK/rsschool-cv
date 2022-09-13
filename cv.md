@@ -73,3 +73,11 @@ return i*2;
 - [spiner](https://github.com/VassyaK/CSS-Spiner)
 
 ---
+
+## **Languages**
+
+- Russian (native)
+- Belorussian (native)
+- English (A1)
+
+---
